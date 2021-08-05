@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/catersmart-donation/static/css/main.a617e044.chunk.css",
+    "main.js": "/catersmart-donation/static/js/main.eb83c2fb.chunk.js",
+    "main.js.map": "/catersmart-donation/static/js/main.eb83c2fb.chunk.js.map",
+    "runtime-main.js": "/catersmart-donation/static/js/runtime-main.5c2c826c.js",
+    "runtime-main.js.map": "/catersmart-donation/static/js/runtime-main.5c2c826c.js.map",
+    "static/js/2.1fff52ed.chunk.js": "/catersmart-donation/static/js/2.1fff52ed.chunk.js",
+    "static/js/2.1fff52ed.chunk.js.map": "/catersmart-donation/static/js/2.1fff52ed.chunk.js.map",
+    "static/js/3.380fcc6b.chunk.js": "/catersmart-donation/static/js/3.380fcc6b.chunk.js",
+    "static/js/3.380fcc6b.chunk.js.map": "/catersmart-donation/static/js/3.380fcc6b.chunk.js.map",
+    "index.html": "/catersmart-donation/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/catersmart-donation/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1fff52ed.chunk.js.LICENSE.txt": "/catersmart-donation/static/js/2.1fff52ed.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/catersmart-donation/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c2c826c.js",
+    "static/js/2.1fff52ed.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.eb83c2fb.chunk.js"
+  ]
+}
