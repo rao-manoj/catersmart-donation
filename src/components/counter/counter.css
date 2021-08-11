@@ -1,0 +1,13 @@
+
+.counter-wrap{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: brown;
+    color:white;
+}
+
+.counter-block{
+    padding: 0 75px;
+    text-align: center;
+}

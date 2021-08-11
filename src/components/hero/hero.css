@@ -1,0 +1,21 @@
+
+.hero-wrap{
+    display:flex;
+}
+
+.hero-left,.hero-right{
+    display:flex;
+    width:50%;
+    justify-content: center;
+
+}
+.hero-left{
+    align-items: center;
+}
+
+.hero-right{
+    flex-direction: column;
+    padding: 0 60px 0 20px;
+    align-items: start;
+}
+

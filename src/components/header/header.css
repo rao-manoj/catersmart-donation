@@ -1,0 +1,15 @@
+
+.header-wrap{
+    display:flex;
+    padding: 10px 0;
+}
+.header-left,.header-right{
+    display:flex;
+    width:50%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hero-image img{
+    width: 400px;
+}
